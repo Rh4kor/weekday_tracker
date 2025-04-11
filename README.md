@@ -26,6 +26,7 @@ Originally created to assist with tracking in-game days in **Harvest Moon (SNES)
 - The app starts with **Monday** by default and wraps back to Monday after Sunday.
 - The hotkey and day state are **not saved** between sessions (resets on close).
 - No installation required, just download and run the executable.
+- "N" does always work for Next Day
 
 ### Requirements
 - **Python** (if using the source code).
